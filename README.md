@@ -26,7 +26,7 @@ After running the Main_WASD_PFN.m file, the package outputs are the following:
 *	The optimal input-layers number of the PFN.
 *	The optimal hidden-layer neurons weights of the PFN.
 *	Forcast of the future prices.
-* The time consumptions of the WASD based PFN.
+* The time consumption of the WASD based PFN.
 *	The graphic illustration of the testing and forecasting prices performance.
 
 # Environment
