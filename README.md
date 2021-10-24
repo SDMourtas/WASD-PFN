@@ -1,7 +1,7 @@
 # WASD based PFN
 Implementation of a speedy weights and structure determination (WASD) algorithm for the power-activation feed-forward neuronet (PFN) for solving time-series modeling and forecasting problems.\
 The purpose of this package is to solve multi-interval-ahead forecasting problems. By considering this problem's approach through PFN and by using the weight direct determination (WDD) process, WASD can find the optimal weights directly from the hidden layer to the output layer. In this way, by searching for the structure with the best performance of testing, WASD can define the PFN’s optimal structure, which leads to a good modeling performance. More precisely, the main articles used are the followings:
-*	T.E. Simos, S.D.Mourtas, V.N.Katsikis, "Time-Varying Black-Litterman Portfolio Optimization under Nonlinear Constraints via Neuronets and BAS Algorithm," (submitted)
+*	T.E. Simos, S.D.Mourtas, V.N.Katsikis, "Time-Varying Black-Litterman Portfolio Optimization under Nonlinear Constraints via Neuronets and BAS Algorithm," Applied Soft Computing 112, 107767 (2021)
 *	Y. Zhang, W. Lao, L. Jin, T. Chen, and J. Liu, "Growing-type WASD for power-activation neuronet to model and forecast monthly time series," in Proc. 10th IEEE Int. Conf. Control and Automation (ICCA), pp. 1312-1317, 2013.
 
 # M-files Description
